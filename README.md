@@ -1,6 +1,6 @@
-- 👋 Hi, i am shashank jha
-- 👀 I’m interested in learning new technologies , game dev ,appdev etc
-- 🌱 I’m currently learning web dev , c++ .
-- 💞️ I’m looking to collaborate on nothing.
+- 👋 Hi, i am Shashank
+- 👀 A coder who just use ai for coding. 
+- 🌱 Open for ML,AI,Web development projects.
+- 💞️ Working on some cool projects.
 - ⚡ Fun fact: i have zero coding knowledge
 
